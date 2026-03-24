@@ -1,0 +1,120 @@
+{
+  "version": 1,
+  "base_track": "ピース",
+  "base_artist": "ハンブレッダーズ",
+  "createdAt": "2026-03-24T05:42:39.136346Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "ピース・オブ・ユア・アクション",
+      "artist": "Mötley Crüe",
+      "has_synced": false,
+      "path": "select/01_ピース・オブ・ユア・アクション_Mötley_Crüe.txt"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "ア・リトル・ピース・オブ・ヘヴン",
+      "artist": "Avenged Sevenfold",
+      "has_synced": true,
+      "path": "select/02_ア・リトル・ピース・オブ・ヘヴン_Avenged_Sevenfold.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "ピース",
+      "artist": "RIP SLYME",
+      "has_synced": true,
+      "path": "select/03_ピース_RIP_SLYME.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "Peace [ピース]",
+      "artist": "RIP SLYME",
+      "has_synced": true,
+      "path": "select/04_Peace_[ピース]_RIP_SLYME.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "ピース",
+      "artist": "GACKT",
+      "has_synced": true,
+      "path": "select/05_ピース_GACKT.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "パーフェクト・ピース",
+      "artist": "*Luna",
+      "has_synced": true,
+      "path": "select/06_パーフェクト・ピース_Luna.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "Peace [ピース]",
+      "artist": "Maaya Sakamoto",
+      "has_synced": true,
+      "path": "select/07_Peace_[ピース]_Maaya_Sakamoto.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "ピース オブ ケーク",
+      "artist": "瑛人",
+      "has_synced": false,
+      "path": "select/08_ピース_オブ_ケーク_瑛人.txt"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "ピース",
+      "artist": "FINLANDS",
+      "has_synced": true,
+      "path": "select/09_ピース_FINLANDS.lrc"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "パーフェクト・ピース",
+      "artist": "*Luna feat. 初音ミク",
+      "has_synced": true,
+      "path": "select/10_パーフェクト・ピース_Luna_feat._初音ミク.lrc"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "ピース",
+      "artist": "Maaya Sakamoto",
+      "has_synced": true,
+      "path": "select/11_ピース_Maaya_Sakamoto.lrc"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "笑顔・はっぴぃ・ピース♪",
+      "artist": "中原麻衣",
+      "has_synced": false,
+      "path": "select/12_笑顔・はっぴぃ・ピース♪_中原麻衣.txt"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "HIRAMEKI！ピース(≧▽≦)v (オリジナル・パージヨン)",
+      "artist": "R-15♡",
+      "has_synced": false,
+      "path": "select/13_HIRAMEKI!ピース(≧▽≦)v_(オリジナル・パージヨン)_R-15♡.txt"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "ピース",
+      "artist": "ハンブレッダーズ",
+      "has_synced": false,
+      "path": "select/pl_01_ピース_ハンブレッダーズ.txt"
+    }
+  ]
+}
